@@ -1,0 +1,1282 @@
+<site version="3.0" pa="1"><css/><components><Component type="10" id="g_roundrect1" zorder="0" filename="roundrect192035859" width="1465" height="2120" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeVUSU8.gif" left="40" top="0" bordercolor="#FF8040" borderwidth="4" bgcolor="" borderstyle="" fp="1" include="p192013750,p208257062,p208256890,p208257281,p208258390,p208258718,p208258218,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" exportfilename="images/roundrect192035859.gif" lp="1"/><Component type="10" id="g_roundrect2" zorder="1" filename="roundrect192795125" width="1209" height="220" fillstyle="0" spborder="0" fromcolor="#0000FF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeBU7QG.gif" left="267" top="9" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" fp="1" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258390,p208258718,p208258218,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" exportfilename="images/roundrect192795125.gif" lp="1"/><Component type="3" id="g_image3" zorder="6" filename="image208646781" left="266" top="8" width="1011" height="20" originwidth="54" originheight="15" src="WSB://images\bg33.gif" previewfile="WSB://images\bg33.gif" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" thumbname="thumb839194890" resamplename="img839194906" exportfilename="images/bg33.gif" fp="1" lp="1"/><Component type="3" id="g_image4" zorder="7" filename="image208707078" left="267" top="206" width="1012" height="22" originwidth="54" originheight="15" src="WSB://images\bg33.gif" previewfile="WSB://images\bg33.gif" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" thumbname="thumb839194937" resamplename="img839194953" exportfilename="images/bg33.gif" fp="1" lp="1"/><Component type="2" id="g_text1" zorder="2" filename="text205905093" left="295" top="50" width="960" height="137" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:48px;"&gt;&lt;B&gt;TAEKWON-DO ASSOCIATION OF INDIA&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:24px;"&gt;&lt;B&gt;AFFILIATED TO INTERNATIONAL TAEKWON-DO FEDERATION UNION&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws36"&gt;&lt;B&gt;TAEKWON-DO ASSOCIATION OF INDIA&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws18"&gt;&lt;B&gt;AFFILIATED TO INTERNATIONAL TAEKWON-DO FEDERATION UNION&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpaAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIkBVN0eWxlCwZmc0JvbGQABUNvbG9yBwdjbFdo
+aXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRT
+aXplAhIFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMN
+ClwBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFt
+ZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHls
+ZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRl
+cmVkCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgtMaW5lU3BhY2luZwOWAAdPcHRpb25z
+CwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgNCAwIDAgMA0KVEFFS1dP
+Ti1ETyBBU1NPQ0lBVElPTiBPRiBJTkRJQQ0KNCAxIDEgMCAwIDANCkFGRklMSUFURUQgVE8gSU5U
+RVJOQVRJT05BTCBUQUVLV09OLURPIEZFREVSQVRJT04gVU5JT04NCg==
+</rvf></Component><Component type="5" id="g_nav1" zorder="3" filename="nav206146609" fontname="Tahoma" fontsize="10" fontcolor="16777215" fontstyle="1" activecolor="536870911" navspace="0" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="29" normalimage="WSB://images\rect03in.gif" mouseoverimage="WSB://images\rect03over.gif" mouseoversound="" navtext0="Home" navurl0="page://p192013750" navtarget0="" navstate0="0" navtext1="News" navurl1="page://p208257062" navtarget1="" navstate1="0" navtext2="Events" navurl2="page://p208256890" navtarget2="" navstate2="0" navtext3="Gallery" navurl3="page://p208258546" navtarget3="" navstate3="0" navtext4="Our Members" navurl4="page://p208257281" navtarget4="" navstate4="0" navtext5="Technical" navurl5="page://p208258390" navtarget5="" navstate5="0" navurl6="page://p208258718" navtarget6="" navcount="8" width="1440" height="29" preview="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\Nav7L6ST" left="56" top="229" fp="1" navtext6="Downloads" navstate6="0" navtext7="Contact TAI" navstate7="0" navurl7="page://p208258218" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" selected="1" exportfilename="images/nav206146609" exportsound="" lp="1"/><Component type="3" id="g_image6" zorder="8" filename="image279821906" left="1315" top="258" width="178" height="1241" originwidth="294" originheight="1007" src="WSB://images\symbol 1.jpeg" previewfile="WSB://images\symbol 1.jpeg" lock="0" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" thumbname="thumb839194984" resamplename="img839195000" exportfilename="images/symbol 1.jpeg" fp="1" lp="1"/><Component type="4" id="g_shape1" zorder="11" filename="shape563914250" width="1260" height="61" bgcolor="#0000FF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeRVLMO.gif" left="55" top="259" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="1" fillstyle="0" lock="1" include="p208257062,p208256890,p208258546,p208257281,p208258218,p208258390,p208258718" fp="1" exportfilename="images/shape563914250.gif" lp="1"/><Component type="3" id="g_image1" zorder="12" filename="image564923125" left="340" top="560" width="731" height="779" originwidth="906" originheight="966" src="WSB://images\ITF SYMBOLBKG.jpeg" previewfile="WSB://images\ITF SYMBOLBKG.jpeg" include="p208257062,p208256890,p208258546,p208257281,p208258390,p208258718,p208258218" thumbname="thumb839195546" resamplename="img839195562" exportfilename="images/ITF SYMBOLBKG.jpeg" fp="1" lp="1"/><Component type="10" id="g_roundrect3" zorder="10" filename="roundrect1990146000" width="1050" height="85" fillstyle="0" spborder="1" fromcolor="#0000FF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape38LJ6.gif" left="167" top="334" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" include="p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" fp="1" exportfilename="images/roundrect1990146000.gif" lp="1"/><Component type="2" id="g_text2" zorder="11" filename="text1990219843" left="344" top="357" width="734" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" include="p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 2nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 2nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgMm5kIE5BVElPTkFMUw0K
+</rvf></Component><Component type="3" id="g_image5" zorder="24" filename="image830092187" left="1267" top="7" width="226" height="221" originwidth="300" originheight="293" src="WSB://images\main itf symbol.jpg" previewfile="WSB://images\main itf symbol.jpg" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258390,p208258718,p208258218,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" thumbname="thumb839195031" resamplename="img839195046" exportfilename="images/main itf symbol.jpg" fp="1" lp="1"/><Component type="3" id="g_image8" zorder="24" filename="image830225484" left="56" top="6" width="232" height="223" originwidth="1221" originheight="1167" src="WSB://images\tai symbol1.jpeg" previewfile="WSB://images\tai symbol1.jpeg" include="p192013750,p208257062,p208256890,p208258546,p208257281,p208258390,p208258718,p208258218,p208258875,p208259031,p208259187,p208259312,p208259531,p371503062,p371508031,p371508750,p371509406,p371510125,p371510812,p371511421,p371512062,p371512687,p371513328,p371513968,p371514656,p371515312,p371516171,p371516921,p371517484,p371518093,p371518718,p371519406,p371520062,p371520718,p371521406,p371522046,p371522671,p371523218,p371523828,p371524406,p371525031,p371525609,p371526250,p371526937" lock="1" thumbname="thumb839195078" resamplename="img839195093" exportfilename="images/tai symbol1.jpeg" fp="1" lp="1"/></components><page id="p192013750" pageindex="0" name="Home" pp="1" cp="1"><body generator="0" bgsoundloop="-1" align="1" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component type="4" id="shape1" zorder="8" filename="shape362435921" width="650" height="134" bgcolor="#0000FF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape1IDIR.gif" left="57" top="259" fp="1" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="3" fillstyle="0" exportfilename="images/shape362435921.gif" lp="1"/><Component type="4" id="shape2" zorder="9" filename="shape368518625" width="647" height="210" bgcolor="#0000FF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeCKGBU.gif" left="58" top="394" spborder="1" borderstyle="1" bordercolor="#FF6600" borderwidth="3" fillstyle="0" fp="1" exportfilename="images/shape368518625.gif" lp="1"/><Component type="2" id="text5" zorder="10" filename="text368622187" left="101" top="292" width="176" height="67" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" style="font-size:16px;"&gt;&lt;B&gt;LATEST&amp;nbsp; NEWS &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:16px;"&gt;&lt;B&gt;Recent promotions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" style="font-size:11px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" class="ws12"&gt;&lt;B&gt;LATEST&amp;nbsp; NEWS &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws12"&gt;&lt;B&gt;Recent promotions&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" class="ws8"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqnAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9kAAAEJ
+U3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAgwF
+U3R5bGULBmZzQm9sZAAFQ29sb3ID2QAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJk
+CAhGb250TmFtZQYGVGFob21hBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAyIDAgMCAwIDANCkxBVEVTVCAgTkVXUyAN
+Cg0KNSAxIDAgMCAwIDANClJlY2VudCBwcm9tb3Rpb25zDQozIDEgMCAwIDAgMA0KIA0K
+</rvf></Component><Component type="2" id="text6" zorder="11" filename="text368698312" left="108" top="419" width="204" height="32" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" style="font-size:16px;"&gt;&lt;B&gt;NEWLY ADDED EVENTS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#D90000" face="Tahoma" class="ws12"&gt;&lt;B&gt;NEWLY ADDED EVENTS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yA9kAAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KTkVXTFkgQURERUQgRVZF
+TlRTDQo=
+</rvf></Component><Component type="2" id="text7" zorder="12" filename="text368704703" left="98" top="461" width="489" height="48" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" style="font-size:16px;"&gt;&lt;B&gt;International Master class by Master PARMJIT SINGH RAI 8th&amp;nbsp; Dan Black Belt on 15th &amp;amp; 16th may 2020.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Tahoma" class="ws12"&gt;&lt;B&gt;International Master class by Master PARMJIT SINGH RAI 8th&amp;nbsp; Dan Black Belt on 15th &amp;amp; 16th may 2020.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoBAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBwdjbFdo
+aXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZh
+UmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25z
+Cw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KSW50ZXJuYXRp
+b25hbCBNYXN0ZXIgY2xhc3MgYnkgTWFzdGVyIFBBUk1KSVQgU0lOR0ggUkFJIDh0aCAgRGFuIEJs
+YWNrIEJlbHQgb24gMTV0aCAmIDE2dGggbWF5IDIwMjAuDQo=
+</rvf></Component><Component type="4" id="shape3" zorder="13" filename="shape861990812" width="463" height="222" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeE6C8K.gif" left="171" top="734" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape861990812.gif" lp="1"/><Component type="4" id="shape4" zorder="14" filename="shape862043843" width="463" height="217" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeAC5K8.gif" left="779" top="733" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape862043843.gif" lp="1"/><Component type="4" id="shape5" zorder="15" filename="shape862062984" width="459" height="215" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeBBHRL.gif" left="172" top="1069" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape862062984.gif" lp="1"/><Component type="4" id="shape6" zorder="16" filename="shape862065125" width="461" height="217" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape39Q2T.gif" left="173" top="1356" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape862065125.gif" lp="1"/><Component type="4" id="shape7" zorder="17" filename="shape862067890" width="461" height="216" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeBI2ID.gif" left="780" top="1360" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape862067890.gif" lp="1"/><Component type="4" id="shape8" zorder="18" filename="shape862069812" width="461" height="218" bgcolor="#FFFFFF" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape63HO8.gif" left="778" top="1068" spborder="1" borderstyle="1" bordercolor="#0000FF" borderwidth="2" fillstyle="0" fp="1" exportfilename="images/shape862069812.gif" lp="1"/><Component id="g_image5" zorder="19" global="1"/><Component id="g_image8" zorder="20" global="1"/><Component type="3" id="image3" zorder="21" filename="image830390687" left="173" top="735" width="167" height="222" originwidth="827" originheight="1096" src="WSB://images\father of tai.jpeg" previewfile="WSB://images\father of tai.jpeg" thumbname="thumb839195125" resamplename="img839195140" exportfilename="images/father of tai.jpeg" fp="1" lp="1"/><Component type="3" id="image4" zorder="22" filename="image830470656" left="15" top="504" width="0" height="0" originwidth="0" originheight="0" src="WSB://images\da" previewfile="WSB://images\da" thumbname="thumb839195171" resamplename="img839195187" exportfilename="images/da" fp="1" lp="1"/><Component type="3" id="image5" zorder="23" filename="image830480953" left="781" top="734" width="171" height="215" originwidth="849" originheight="1064" src="WSB://images\dalton.jpeg" previewfile="WSB://images\dalton.jpeg" thumbname="thumb839195218" resamplename="img839195234" exportfilename="images/dalton.jpeg" fp="1" lp="1"/><Component type="3" id="image6" zorder="24" filename="image830523406" left="197" top="751" width="0" height="0" originwidth="0" originheight="0" src="WSB://images\gamblin" previewfile="WSB://images\gamblin" thumbname="thumb839195265" resamplename="img839195281" exportfilename="images/gamblin" fp="1" lp="1"/><Component type="3" id="image7" zorder="25" filename="image830535265" left="174" top="1072" width="185" height="210" originwidth="1080" originheight="1087" src="WSB://images\master gamblin.jpeg" previewfile="WSB://images\master gamblin.jpeg" thumbname="thumb839195312" resamplename="img839195328" exportfilename="images/master gamblin.jpeg" fp="1" lp="1"/><Component type="3" id="image2" zorder="26" filename="image830604671" left="780" top="1069" width="175" height="219" originwidth="654" originheight="960" src="WSB://images\FB_IMG_1614218474674.jpg" previewfile="WSB://images\FB_IMG_1614218474674.jpg" thumbname="thumb839195359" resamplename="img839195375" exportfilename="images/FB_IMG_1614218474674.jpg" fp="1" lp="1"/><Component type="3" id="image8" zorder="27" filename="image830634984" left="780" top="1360" width="187" height="214" originwidth="1080" originheight="1029" src="WSB://images\DVVP.jpeg" previewfile="WSB://images\DVVP.jpeg" thumbname="thumb839195406" resamplename="img839195421" exportfilename="images/DVVP.jpeg" fp="1" lp="1"/><Component type="3" id="image9" zorder="28" filename="image830804828" left="175" top="1357" width="191" height="214" originwidth="540" originheight="528" src="WSB://images\master ramanaiah garu.jpeg" previewfile="WSB://images\master ramanaiah garu.jpeg" thumbname="thumb839195453" resamplename="img839195468" exportfilename="images/master ramanaiah garu.jpeg" fp="1" lp="1"/><Component type="2" id="text1" zorder="29" filename="text830842875" left="347" top="801" width="276" height="94" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;GEN.CHOI HONG HI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;FATHER OF TAEKWON-DO&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;1918-2002&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;GEN.CHOI HONG HI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;FATHER OF TAEKWON-DO&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;1918-2002&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDMgMSAwIDAgMA0KR0VOLkNIT0kgSE9ORyBISQ0KRkFU
+SEVSIE9GIFRBRUtXT04tRE8NCjE5MTgtMjAwMg0K
+</rvf></Component><Component type="2" id="text2" zorder="30" filename="text830904015" left="958" top="808" width="276" height="87" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;DON DALTON&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;PRESIDENT OF ITF UNION&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;DON DALTON&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;PRESIDENT OF ITF UNION&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KRE9OIERBTFRPTg0KUFJFU0lERU5U
+IE9GIElURiBVTklPTg0K
+</rvf></Component><Component type="2" id="text3" zorder="31" filename="text830910203" left="355" top="1147" width="276" height="89" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;MASTER GAMBINI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;GENERAL SECRETARY OF&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;ITF UNION&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;MASTER GAMBINI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;GENERAL SECRETARY OF&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;ITF UNION&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDMgMSAwIDAgMA0KTUFTVEVSIEdBTUJJTkkNCkdFTkVS
+QUwgU0VDUkVUQVJZIE9GDQpJVEYgVU5JT04NCg==
+</rvf></Component><Component type="2" id="text4" zorder="32" filename="text830920718" left="959" top="1142" width="276" height="109" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;MASTER PARAMJITH S RAI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;TECHNICAL INSTRUCTOR ITF&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;MASTER PARAMJITH S RAI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;TECHNICAL INSTRUCTOR ITF&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KTUFTVEVSIFBBUkFNSklUSCBTIFJB
+SQ0KVEVDSE5JQ0FMIElOU1RSVUNUT1IgSVRGDQo=
+</rvf></Component><Component type="2" id="text9" zorder="33" filename="text830928250" left="361" top="1432" width="276" height="72" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;MASTER B.V.RAMANIAH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:21px;"&gt;PRESIDENT OF TAI&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;MASTER B.V.RAMANIAH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws16"&gt;PRESIDENT OF TAI&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIQBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDIgMSAwIDAgMA0KTUFTVEVSIEIuVi5SQU1BTklBSA0K
+UFJFU0lERU5UIE9GIFRBSQ0K
+</rvf></Component><Component type="2" id="text10" zorder="34" filename="text830934234" left="960" top="1420" width="276" height="77" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:19px;"&gt;MASTER D.V.V.PRASAD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:19px;"&gt;GENERAL SECRETARY OF TAI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws14"&gt;MASTER D.V.V.PRASAD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws14"&gt;GENERAL SECRETARY OF TAI&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#993300" face="Times New Roman" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBUNvbG9yA5kzAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDMgMSAwIDAgMA0KTUFTVEVSIEQuVi5WLlBSQVNBRA0K
+R0VORVJBTCBTRUNSRVRBUlkgT0YgVEFJDQoNCg==
+</rvf></Component><Component type="3" id="image10" zorder="1" filename="image831351453" left="343" top="668" width="731" height="779" originwidth="906" originheight="966" src="WSB://images\ITF SYMBOLBKG.jpeg" previewfile="WSB://images\ITF SYMBOLBKG.jpeg" thumbname="thumb839194843" resamplename="img839194859" exportfilename="images/ITF SYMBOLBKG.jpeg" fp="1" lp="1"/><Component type="17" id="embed1" zorder="35" filename="embed837739843" width="554" height="369" pluginaddress="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,5,715" embedtype="2" autostart="1" src="WSB://images\1stvideo.avi" left="726" top="261" noembed="" hideembed="0" loop="1" customparams="" exportfilename="images/1stvideo.avi" fp="1" lp="1"/></body></page><page id="p208256890" pageindex="2" name="Events" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564260703" left="633" top="273" width="121" height="29" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;EVENTS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;EVENTS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpFVkVOVFMNCg==
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component id="g_image8" zorder="11" global="1"/><Component type="5" id="nav1" zorder="12" filename="nav838422359" fontname="Times New Roman" fontsize="10" fontcolor="0" fontstyle="1" activecolor="16711680" navspace="12" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="144" navheight="27" normalimage="WSB://images\cc05in.gif" mouseoverimage="WSB://images\cc05over.gif" mouseoversound="" navtext0="1st Nationals" navurl0="page://p208259312" navtarget0="" navstate0="0" navtext1="2nd Nationals" navurl1="page://p208259531" navtarget1="" navstate1="0" navtext2="3rd Nationals" navurl2="page://p371503062" navtarget2="" navstate2="0" navtext3="4th Nationals" navurl3="page://p371508031" navtarget3="" navstate3="0" navtext4="5th Nationals" navurl4="page://p371508750" navtarget4="" navstate4="0" navtext5="6th Nationals" navurl5="page://p371509406" navtarget5="" navstate5="0" navtext6="7th Nationals" navurl6="page://p371510125" navtarget6="" navstate6="0" navtext7="8th Nationals" navurl7="page://p371510812" navtarget7="" navstate7="0" navtext8="9th Nationals" navurl8="page://p371511421" navtarget8="" navstate8="0" navtext9="10th Nationals" navurl9="page://p371512062" navtarget9="" navstate9="0" navtext10="11th Nationals" navurl10="page://p371512687" navtarget10="" navstate10="0" navtext11="12th Nationals" navurl11="page://p371513328" navtarget11="" navstate11="0" navtext12="13th Nationals" navurl12="page://p371513968" navtarget12="" navstate12="0" navtext13="14th Nationals" navurl13="page://p371514656" navtarget13="" navstate13="0" navtext14="15th Nationals" navurl14="page://p371515312" navtarget14="" navstate14="0" navtext15="16th Nationals" navurl15="page://p371516171" navtarget15="" navstate15="0" navcount="16" width="144" height="624" preview="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\NavF787K" left="280" top="460" fp="1" exportfilename="images/nav838422359" exportsound="" lp="1"/><Component type="5" id="nav2" zorder="13" filename="nav838499734" fontname="Times New Roman" fontsize="10" fontcolor="0" fontstyle="1" activecolor="16711680" navspace="12" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="17th Nationals" navurl0="page://p371516921" navtarget0="" navstate0="0" navtext1="18th Nationals" navurl1="page://p371517484" navtarget1="" navstate1="0" navtext2="19th Nationals" navurl2="page://p371518093" navtarget2="" navstate2="0" navtext3="20th Nationals" navurl3="page://p371518718" navtarget3="" navstate3="0" navtext4="21st Nationals" navurl4="page://p371519406" navtarget4="" navstate4="0" navtext5="22nd Nationals" navurl5="page://p371520062" navtarget5="" navstate5="0" navtext6="23rd Nationals" navurl6="page://p371520718" navtarget6="" navstate6="0" navtext7="24th Nationals" navurl7="page://p371521406" navtarget7="" navstate7="0" navtext8="25th Nationals" navurl8="page://p371522046" navtarget8="" navstate8="0" navtext9="26th Nationals" navurl9="page://p371522671" navtarget9="" navstate9="0" navtext10="27th Nationals" navurl10="page://p371523218" navtarget10="" navstate10="0" navtext11="28th Nationals" navurl11="page://p371523828" navtarget11="" navstate11="0" navtext12="29th Nationals" navurl12="page://p371524406" navtarget12="" navstate12="0" navtext13="30th Nationals" navurl13="page://p371525031" navtarget13="" navstate13="0" navtext14="31st Nationals" navurl14="page://p371525609" navtarget14="" navstate14="0" navtext15="32nd Nationals" navurl15="page://p371526250" navtarget15="" navstate15="0" navtext16="33rd Nationals" navurl16="page://p371526937" navtarget16="" navstate16="0" navcount="17" width="125" height="646" preview="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\Nav7PPAJ" left="760" top="440" fp="1" exportfilename="images/nav838499734" exportsound="" lp="1"/></body></page><page id="p208257062" pageindex="1" name="News" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component type="2" id="text1" zorder="8" filename="text563280968" left="140" top="440" width="279" height="35" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="26367" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" style="font-size:19px;"&gt;&amp;lt;&amp;lt;RECENT PROMOTIONS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" class="ws14"&gt;&amp;lt;&amp;lt;RECENT PROMOTIONS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBUNvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KPDxSRUNFTlQgUFJPTU9USU9OUw0K
+</rvf></Component><Component type="2" id="text2" zorder="9" filename="text563588796" left="140" top="500" width="726" height="45" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" style="font-size:19px;"&gt;&amp;lt;&amp;lt;34th NATIONAL TAEKWON-DO CHAMPIONSHIP ON 27th to 29th December-2019.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" class="ws14"&gt;&amp;lt;&amp;lt;34th NATIONAL TAEKWON-DO CHAMPIONSHIP ON 27th to 29th December-2019.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBUNvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KPDwzNHRoIE5BVElPTkFMIFRBRUtXT04t
+RE8gQ0hBTVBJT05TSElQIE9OIDI3dGggdG8gMjl0aCBEZWNlbWJlci0yMDE5Lg0K
+</rvf></Component><Component id="g_shape1" zorder="10" global="1"/><Component type="2" id="text3" zorder="12" filename="text564003015" left="593" top="275" width="212" height="30" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;LATEST NEWS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;LATEST NEWS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMQVRFU1QgTkVX
+Uw0K
+</rvf></Component><Component id="g_image1" zorder="11" global="1"/><Component id="g_image8" zorder="13" global="1"/></body></page><page id="p208257281" pageindex="4" name="Our members" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564427531" left="583" top="273" width="210" height="33" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;OUR MEMBERS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;OUR MEMBERS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpPVVIgTUVNQkVS
+Uw0K
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component type="10" id="roundrect1" zorder="11" filename="roundrect827754562" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeJ7SID.gif" left="196" top="414" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect827754562.gif" lp="1"/><Component type="2" id="text2" zorder="12" filename="text829010859" left="259" top="432" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;ANDHRA PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. MD.HAFEEZ 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;ANDHRA PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. MD.HAFEEZ 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpBTkRIUkEgUFJBREVTSA0K
+TXIuIE1ELkhBRkVFWiA2dGggRGFuDQo=
+</rvf></Component><Component type="10" id="roundrect2" zorder="13" filename="roundrect829090359" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeL5QRT.gif" left="198" top="581" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829090359.gif" fp="1" lp="1"/><Component type="10" id="roundrect3" zorder="14" filename="roundrect829097890" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeVL6JL.gif" left="197" top="733" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829097890.gif" fp="1" lp="1"/><Component type="10" id="roundrect4" zorder="15" filename="roundrect829104484" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeOIEJL.gif" left="197" top="890" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829104484.gif" fp="1" lp="1"/><Component type="10" id="roundrect5" zorder="16" filename="roundrect829133109" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeM811U.gif" left="199" top="1040" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829133109.gif" fp="1" lp="1"/><Component type="10" id="roundrect6" zorder="17" filename="roundrect829138765" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeCQPGJ.gif" left="203" top="1200" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829138765.gif" fp="1" lp="1"/><Component type="10" id="roundrect7" zorder="18" filename="roundrect829143828" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape0A8U3.gif" left="205" top="1345" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829143828.gif" fp="1" lp="1"/><Component type="10" id="roundrect8" zorder="19" filename="roundrect829148843" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeBS7MT.gif" left="209" top="1491" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829148843.gif" fp="1" lp="1"/><Component type="10" id="roundrect9" zorder="20" filename="roundrect829162609" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeJA1T7.gif" left="209" top="1647" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829162609.gif" fp="1" lp="1"/><Component type="10" id="roundrect10" zorder="21" filename="roundrect829165765" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeB5EG3.gif" left="208" top="1794" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829165765.gif" fp="1" lp="1"/><Component type="10" id="roundrect11" zorder="22" filename="roundrect829169218" width="787" height="121" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shapeGP5EM.gif" left="210" top="1944" bordercolor="#FF6600" borderwidth="3" bgcolor="" borderstyle="" exportfilename="images/roundrect829169218.gif" fp="1" lp="1"/><Component type="2" id="text3" zorder="23" filename="text829180203" left="268" top="601" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;CHANDIGARH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. RAJESH BHARADWAJ 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;CHANDIGARH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. RAJESH BHARADWAJ 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpDSEFORElHQVJIDQpNci4g
+UkFKRVNIIEJIQVJBRFdBSiA0dGggRGFuDQo=
+</rvf></Component><Component type="2" id="text4" zorder="24" filename="text829185937" left="263" top="749" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;GUJARAT&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mrs. VISHVA ADATIYA 1st Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;GUJARAT&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mrs. VISHVA ADATIYA 1st Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpHVUpBUkFUDQpNcnMuIFZJ
+U0hWQSBBREFUSVlBIDFzdCBEYW4NCg==
+</rvf></Component><Component type="2" id="text5" zorder="25" filename="text829286578" left="257" top="910" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;HIMACHAL PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. SANJAY KUMAR 3rd Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;HIMACHAL PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. SANJAY KUMAR 3rd Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpISU1BQ0hBTCBQUkFERVNI
+DQpNci4gU0FOSkFZIEtVTUFSIDNyZCBEYW4NCg==
+</rvf></Component><Component type="2" id="text6" zorder="26" filename="text829291390" left="275" top="1059" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" selected="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;KERALA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. K. VENUGOPALAN 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;KERALA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. K. VENUGOPALAN 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpLRVJBTEENCk1yLiBLLiBW
+RU5VR09QQUxBTiA2dGggRGFuDQo=
+</rvf></Component><Component type="2" id="text7" zorder="27" filename="text829295468" left="289" top="1654" width="641" height="105" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;TAMIL NADU&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;1. Mr. G. BALA KRISHNA 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;2. Mr. L. SELVARAJ 3rd Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;TAMIL NADU&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;1. Mr. G. BALA KRISHNA 6th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;2. Mr. L. SELVARAJ 3rd Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMyAxIDAgMCAwDQpUQU1JTCBOQURVDQoxLiBN
+ci4gRy4gQkFMQSBLUklTSE5BIDZ0aCBEYW4NCjIuIE1yLiBMLiBTRUxWQVJBSiAzcmQgRGFuDQo=
+</rvf></Component><Component type="2" id="text8" zorder="28" filename="text829417578" left="282" top="1362" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;ORISSA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. ARJUN BUDHAYAK 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;ORISSA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. ARJUN BUDHAYAK 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpPUklTU0ENCk1yLiBBUkpV
+TiBCVURIQVlBSyA0dGggRGFuDQo=
+</rvf></Component><Component type="2" id="text9" zorder="29" filename="text829421671" left="279" top="1509" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;PUNJAB&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. PAWANCHOLI 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;PUNJAB&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. PAWANCHOLI 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpQVU5KQUINCk1yLiBQQVdB
+TkNIT0xJIDR0aCBEYW4NCg==
+</rvf></Component><Component type="2" id="text10" zorder="30" filename="text829426468" left="293" top="1223" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;MAHARASTRA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. CHANDRA SEKHAR 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;MAHARASTRA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. CHANDRA SEKHAR 4th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpNQUhBUkFTVFJBDQpNci4g
+Q0hBTkRSQSBTRUtIQVIgNHRoIERhbg0K
+</rvf></Component><Component type="2" id="text11" zorder="31" filename="text829560765" left="287" top="1813" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;TELANGANA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. B. BALAMURALI KRISHNA 5th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;TELANGANA&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. B. BALAMURALI KRISHNA 5th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpURUxBTkdBTkENCk1yLiBC
+LiBCQUxBTVVSQUxJIEtSSVNITkEgNXRoIERhbg0K
+</rvf></Component><Component type="2" id="text12" zorder="32" filename="text829618906" left="292" top="1961" width="641" height="83" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;UTTAR PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" style="font-size:32px;"&gt;Mr. SANTOSH KUMAR YADAV 5th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;UTTAR PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Times New Roman" class="ws24"&gt;Mr. SANTOSH KUMAR YADAV 5th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr6AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwZjbEJsdWUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMiAxIDAgMCAwDQpVVFRBUiBQUkFERVNIDQpN
+ci4gU0FOVE9TSCBLVU1BUiBZQURBViA1dGggRGFuDQo=
+</rvf></Component><Component id="g_image8" zorder="33" global="1"/></body></page><page id="p208258218" pageindex="7" name="Contact TAI" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564705328" left="592" top="275" width="196" height="31" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;CONTACT TAI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;CONTACT TAI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpDT05UQUNUIFRB
+SQ0K
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component type="2" id="text2" zorder="11" filename="text566307968" left="225" top="466" width="772" height="751" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:29px;"&gt;&lt;B&gt;&lt;U&gt;TAEKWON-DO ASSOCIATION OF INDIA&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:27px;background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;U&gt;PRESIDENT&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; Sr.MASTER B.V.RAMANAIAH 8th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; Mobile No:9848526622&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 7680817557&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; Mail.id: ramanaiahbellam@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt;&lt;B&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:27px;"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" style="font-size:27px;"&gt;&lt;B&gt;&lt;U&gt;GENERAL SECRETARY&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;MASTER D.V.V.PRASAD 7th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; Mobile No:9866195307&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; Mail.id: dvvprasad93@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; CONTACT ADDRESS:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; TAEKWON-DO ASSOCIATION OF INDIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; 40-1-93/1, KHANNA NAGAR,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; NEAR BENZ CIRCLE, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; VIJAYAWADA - 520010.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; ANDHRA PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:24px;"&gt;&amp;nbsp; INDIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws22"&gt;&lt;B&gt;&lt;U&gt;TAEKWON-DO ASSOCIATION OF INDIA&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws20" style="background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16" style="background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18" style="background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws18" style="background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;U&gt;PRESIDENT&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16" style="background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; Sr.MASTER B.V.RAMANAIAH 8th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; Mobile No:9848526622&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 7680817557&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; Mail.id: ramanaiahbellam@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16"&gt;&lt;B&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws20"&gt;&lt;B&gt;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma" class="ws20"&gt;&lt;B&gt;&lt;U&gt;GENERAL SECRETARY&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16"&gt;&amp;nbsp; &lt;/font&gt;&lt;font face="Tahoma" class="ws18"&gt;MASTER D.V.V.PRASAD 7th Dan&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; Mobile No:9866195307&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; Mail.id: dvvprasad93@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; CONTACT ADDRESS:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; TAEKWON-DO ASSOCIATION OF INDIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; 40-1-93/1, KHANNA NAGAR,&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; NEAR BENZ CIRCLE, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; VIJAYAWADA - 520010.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; ANDHRA PRADESH&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws18"&gt;&amp;nbsp; INDIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Tahoma" class="ws16"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpTBAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIQAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhT
+dGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAhAFU3R5bGULBmZzQm9sZAtmc1VuZGVybGlu
+ZQAJQmFja0NvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAhAFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEAVTdHls
+ZQsGZnNCb2xkAAlCYWNrQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCFAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5l
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQIUBVN0eWxlCwZmc0JvbGQACUJhY2tDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQLZnNV
+bmRlcmxpbmUACUJhY2tDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQISBVN0eWxlCwZmc0JvbGQACUJhY2tDb2xvcgcH
+Y2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhv
+bWEEU2l6ZQISAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRh
+aG9tYQRTaXplAhQFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCFgVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMTMgMSAwIDAgMCAwDQpUQUVLV09OLURPIEFT
+U09DSUFUSU9OIE9GIElORElBDQo4IDEgMCAwIDAgMA0KDQo2IDEgMCAwIDAgMA0KIA0KMTAgMSAt
+MSAxIDAgMA0KIA0KOSAxIC0xIDEgMCAwDQpQUkVTSURFTlQNCjQgMSAwIDAgMCAwDQoNCjMgMSAw
+IDAgMCAwDQogDQoxMSA1IDAgMCAwIDANCiAgU3IuTUFTVEVSIEIuVi5SQU1BTkFJQUggOHRoIERh
+bg0KICBNb2JpbGUgTm86OTg0ODUyNjYyMg0KICAgICAgICAgICAgICAgICAgNzY4MDgxNzU1Nw0K
+ICBNYWlsLmlkOiByYW1hbmFpYWhiZWxsYW1AZ21haWwuY29tDQoNCjUgMSAwIDAgMCAwDQoNCjEy
+IDEgMCAwIDAgMA0KICANCjcgMSAtMSAxIDAgMA0KR0VORVJBTCBTRUNSRVRBUlkNCjMgMiAwIDAg
+MCAwDQoNCiAgDQoxMSAxIC0xIDEgMCAwDQpNQVNURVIgRC5WLlYuUFJBU0FEIDd0aCBEYW4NCjEx
+IDEwIDAgMCAwIDANCiAgTW9iaWxlIE5vOjk4NjYxOTUzMDcNCiAgTWFpbC5pZDogZHZ2cHJhc2Fk
+OTNAZ21haWwuY29tDQoNCiAgQ09OVEFDVCBBRERSRVNTOg0KICBUQUVLV09OLURPIEFTU09DSUFU
+SU9OIE9GIElORElBDQogIDQwLTEtOTMvMSwgS0hBTk5BIE5BR0FSLA0KICBORUFSIEJFTlogQ0lS
+Q0xFLCANCiAgVklKQVlBV0FEQSAtIDUyMDAxMC4NCiAgQU5ESFJBIFBSQURFU0gNCiAgSU5ESUEN
+CjMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p208258390" pageindex="5" name="Technical" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564607890" left="610" top="274" width="173" height="30" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;TECHNICAL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;TECHNICAL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpURUNITklDQUwN
+Cg==
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p208258546" pageindex="3" name="gallery" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564323187" left="622" top="271" width="137" height="32" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" global="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;GALLERY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;GALLERY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpHQUxMRVJZDQo=
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component type="3" id="image1" zorder="11" filename="image865730953" left="54" top="321" width="663" height="380" originwidth="1152" originheight="532" src="WSB://images\34-4.jpeg" previewfile="WSB://images\34-4.jpeg" thumbname="thumb839195828" resamplename="img839195859" exportfilename="images/34-4.jpeg" fp="1" lp="1"/><Component type="3" id="image2" zorder="12" filename="image865797687" left="718" top="321" width="598" height="381" originwidth="1280" originheight="960" src="WSB://images\34-2.jpeg" previewfile="WSB://images\34-2.jpeg" thumbname="thumb839195890" resamplename="img839195890" exportfilename="images/34-2.jpeg" fp="1" lp="1"/><Component type="3" id="image3" zorder="13" filename="image866427687" left="54" top="700" width="662" height="403" originwidth="1280" originheight="577" src="WSB://images\34-3.jpeg" previewfile="WSB://images\34-3.jpeg" thumbname="thumb839195906" resamplename="img839195906" exportfilename="images/34-3.jpeg" fp="1" lp="1"/><Component type="3" id="image4" zorder="14" filename="image866475265" left="716" top="702" width="599" height="401" originwidth="1280" originheight="960" src="WSB://images\diu.jpeg" previewfile="WSB://images\diu.jpeg" thumbname="thumb839195921" resamplename="img839195921" exportfilename="images/diu.jpeg" fp="1" lp="1"/><Component type="3" id="image5" zorder="15" filename="image866569968" left="54" top="1103" width="665" height="396" originwidth="960" originheight="720" src="WSB://images\11.jpeg" previewfile="WSB://images\11.jpeg" thumbname="thumb839195937" resamplename="img839195937" exportfilename="images/11.jpeg" fp="1" lp="1"/><Component type="3" id="image6" zorder="16" filename="image866617125" left="719" top="1102" width="596" height="398" originwidth="910" originheight="811" src="WSB://images\12.jpeg" previewfile="WSB://images\12.jpeg" thumbname="thumb839195953" resamplename="img839195953" exportfilename="images/12.jpeg" fp="1" lp="1"/><Component type="3" id="image7" zorder="17" filename="image866683875" left="54" top="1498" width="735" height="412" originwidth="1080" originheight="829" src="WSB://images\13.jpeg" previewfile="WSB://images\13.jpeg" thumbname="thumb839195968" resamplename="img839195968" exportfilename="images/13.jpeg" fp="1" lp="1"/><Component type="3" id="image8" zorder="18" filename="image866715078" left="789" top="1500" width="702" height="410" originwidth="1280" originheight="960" src="WSB://images\14.jpeg" previewfile="WSB://images\14.jpeg" thumbname="thumb839195984" resamplename="img839195984" exportfilename="images/14.jpeg" fp="1" lp="1"/><Component type="3" id="image9" zorder="19" filename="image866754671" left="54" top="1910" width="734" height="674" originwidth="864" originheight="1152" src="WSB://images\15.jpeg" previewfile="WSB://images\15.jpeg" thumbname="thumb839196000" resamplename="img839196000" exportfilename="images/15.jpeg" fp="1" lp="1"/><Component type="3" id="image10" zorder="20" filename="image866863703" left="788" top="1911" width="704" height="675" originwidth="864" originheight="1152" src="WSB://images\16.jpeg" previewfile="WSB://images\16.jpeg" thumbname="thumb839196015" resamplename="img839196015" exportfilename="images/16.jpeg" fp="1" lp="1"/><Component type="3" id="image11" zorder="21" filename="image866907375" left="52" top="2584" width="737" height="437" originwidth="1280" originheight="960" src="WSB://images\17.jpeg" previewfile="WSB://images\17.jpeg" thumbname="thumb839196062" resamplename="img839196078" exportfilename="images/17.jpeg" fp="1" lp="1"/><Component type="3" id="image12" zorder="22" filename="image866979109" left="789" top="2586" width="702" height="436" originwidth="1280" originheight="960" src="WSB://images\18.jpeg" previewfile="WSB://images\18.jpeg" thumbname="thumb839196109" resamplename="img839196125" exportfilename="images/18.jpeg" fp="1" lp="1"/><Component type="3" id="image13" zorder="23" filename="image867036140" left="52" top="3020" width="736" height="770" originwidth="960" originheight="1280" src="WSB://images\19.jpeg" previewfile="WSB://images\19.jpeg" thumbname="thumb839196156" resamplename="img839196171" exportfilename="images/19.jpeg" fp="1" lp="1"/><Component type="3" id="image14" zorder="24" filename="image867108656" left="789" top="3022" width="701" height="769" originwidth="960" originheight="1280" src="WSB://images\22.jpeg" previewfile="WSB://images\22.jpeg" thumbname="thumb839196203" resamplename="img839196218" exportfilename="images/22.jpeg" fp="1" lp="1"/><Component type="3" id="image15" zorder="25" filename="image867152625" left="53" top="3789" width="734" height="469" originwidth="1280" originheight="960" src="WSB://images\21.jpeg" previewfile="WSB://images\21.jpeg" thumbname="thumb839196250" resamplename="img839196265" exportfilename="images/21.jpeg" fp="1" lp="1"/><Component type="3" id="image16" zorder="26" filename="image867219718" left="785" top="3791" width="706" height="467" originwidth="960" originheight="656" src="WSB://images\20.jpeg" previewfile="WSB://images\20.jpeg" thumbname="thumb839196296" resamplename="img839196312" exportfilename="images/20.jpeg" fp="1" lp="1"/><Component type="3" id="image17" zorder="27" filename="image867258546" left="53" top="4258" width="734" height="491" originwidth="1280" originheight="849" src="WSB://images\23.jpeg" previewfile="WSB://images\23.jpeg" thumbname="thumb839196359" resamplename="img839196375" exportfilename="images/23.jpeg" fp="1" lp="1"/><Component type="3" id="image18" zorder="28" filename="image867348578" left="787" top="4259" width="702" height="491" originwidth="1024" originheight="768" src="WSB://images\24.jpeg" previewfile="WSB://images\24.jpeg" thumbname="thumb839196406" resamplename="img839196421" exportfilename="images/24.jpeg" fp="1" lp="1"/><Component type="3" id="image19" zorder="29" filename="image867398156" left="53" top="4749" width="735" height="520" originwidth="1080" originheight="925" src="WSB://images\25.jpeg" previewfile="WSB://images\25.jpeg" thumbname="thumb839196453" resamplename="img839196468" exportfilename="images/25.jpeg" fp="1" lp="1"/><Component type="3" id="image20" zorder="30" filename="image867446343" left="789" top="4751" width="701" height="504" originwidth="1024" originheight="768" src="WSB://images\27.jpeg" previewfile="WSB://images\27.jpeg" thumbname="thumb839196500" resamplename="img839196531" exportfilename="images/27.jpeg" fp="1" lp="1"/><Component type="3" id="image21" zorder="31" filename="image867497203" left="55" top="5254" width="734" height="415" originwidth="1280" originheight="883" src="WSB://images\30.jpeg" previewfile="WSB://images\30.jpeg" thumbname="thumb839196562" resamplename="img839196578" exportfilename="images/30.jpeg" fp="1" lp="1"/><Component type="3" id="image22" zorder="32" filename="image867544281" left="790" top="5255" width="701" height="414" originwidth="1280" originheight="851" src="WSB://images\31.jpeg" previewfile="WSB://images\31.jpeg" thumbname="thumb839196609" resamplename="img839196625" exportfilename="images/31.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="33" global="1"/><Component type="10" id="roundrect1" zorder="0" filename="roundrect838041390" width="1468" height="5740" fillstyle="0" spborder="1" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\TARAK\AppData\Local\Temp\Web Page Maker\docI899G\shape7V36Q.gif" left="40" top="0" bordercolor="#FF6600" borderwidth="4" bgcolor="" borderstyle="" fp="1" exportfilename="images/roundrect838041390.gif" lp="1"/></body></page><page id="p208258718" pageindex="6" name="Downloads" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_nav1" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image5" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_shape1" zorder="8" global="1"/><Component type="2" id="text1" zorder="9" filename="text564656625" left="590" top="275" width="195" height="33" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" style="font-size:27px;"&gt;&lt;B&gt;DOWNLOADS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" class="ws20"&gt;&lt;B&gt;DOWNLOADS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpET1dOTE9BRFMN
+Cg==
+</rvf></Component><Component id="g_image1" zorder="10" global="1"/><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p208258875" pageindex="8" name="latest news" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_image8" zorder="8" global="1"/></body></page><page id="p208259031" pageindex="9" name="upcoming events" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_image8" zorder="8" global="1"/></body></page><page id="p208259187" pageindex="10" name="national" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_image8" zorder="8" global="1"/></body></page><page id="p208259312" pageindex="11" name="1ST NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text827880500" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 1st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 1st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgMXN0IE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p208259531" pageindex="12" name="2nd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_roundrect3" zorder="8" global="1"/><Component id="g_text2" zorder="9" global="1"/><Component type="3" id="image1" zorder="10" filename="image828974140" left="191" top="474" width="960" height="1280" originwidth="960" originheight="1280" src="WSB://images\2ND.jpeg" previewfile="WSB://images\2ND.jpeg" thumbname="thumb839202656" resamplename="img839202671" exportfilename="images/2ND.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371503062" pageindex="13" name="3rd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image4" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text827946281" left="322" top="355" width="736" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 3rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 3rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgM3JkIE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371508031" pageindex="14" name="4rth NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text827976875" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 4th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 4th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgNHRoIE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371508750" pageindex="15" name="5th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image4" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text827998062" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 5th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 5th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgNXRoIE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371509406" pageindex="16" name="6th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828013812" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 6th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 6th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgNnRoIE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371510125" pageindex="17" name="7th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828036375" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 7th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 7th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgN3RoIE5BVElPTkFMUw0K
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371510812" pageindex="18" name="8th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828051156" left="342" top="354" width="699" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP 8th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP 8th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgOHRoIE5BVElPTkFMUw0K
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828961125" left="143" top="483" width="1080" height="843" originwidth="1080" originheight="843" src="WSB://images\8TH.jpeg" previewfile="WSB://images\8TH.jpeg" thumbname="thumb839219875" resamplename="img839219890" exportfilename="images/8TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371511421" pageindex="19" name="9th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image6" zorder="6" global="1"/><Component id="g_nav1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828073375" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 9th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 9th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDl0aCBOQVRJT05BTFMNCg==
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371512062" pageindex="20" name="10th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828111546" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 10th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 10th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDEwdGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828947328" left="155" top="484" width="1080" height="907" originwidth="1080" originheight="907" src="WSB://images\10TH.jpeg" previewfile="WSB://images\10TH.jpeg" thumbname="thumb839226234" resamplename="img839226250" exportfilename="images/10TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371512687" pageindex="21" name="11th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828126578" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 11th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 11th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDExdGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371513328" pageindex="22" name="12th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828140968" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 12th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 12th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDEydGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828929437" left="138" top="507" width="1103" height="868" originwidth="1280" originheight="1007" src="WSB://images\12TH.jpeg" previewfile="WSB://images\12TH.jpeg" thumbname="thumb839233656" resamplename="img839233671" exportfilename="images/12TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371513968" pageindex="23" name="13th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_nav1" zorder="3" global="1"/><Component id="g_text1" zorder="4" global="1"/><Component id="g_image4" zorder="5" global="1"/><Component id="g_image3" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828158859" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 13th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 13th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDEzdGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828907328" left="155" top="495" width="1080" height="872" originwidth="1080" originheight="872" src="WSB://images\13TH.jpeg" previewfile="WSB://images\13TH.jpeg" thumbname="thumb839236984" resamplename="img839237000" exportfilename="images/13TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371514656" pageindex="24" name="14th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828173375" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 14th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 14th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE0dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371515312" pageindex="25" name="15th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image6" zorder="6" global="1"/><Component id="g_nav1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828187968" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 15th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 15th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE1dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828870828" left="115" top="481" width="1141" height="877" originwidth="1228" originheight="944" src="WSB://images\15TH.jpeg" previewfile="WSB://images\15TH.jpeg" thumbname="thumb839243265" resamplename="img839243281" exportfilename="images/15TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371516171" pageindex="26" name="16th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828204203" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 16th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 16th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE2dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828856359" left="131" top="487" width="1144" height="946" originwidth="1144" originheight="946" src="WSB://images\16TH.jpeg" previewfile="WSB://images\16TH.jpeg" thumbname="thumb839246218" resamplename="img839246234" exportfilename="images/16TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371516921" pageindex="27" name="17th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828220062" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 17th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 17th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE3dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828835171" left="129" top="526" width="1120" height="845" originwidth="1280" originheight="966" src="WSB://images\17TH.jpeg" previewfile="WSB://images\17TH.jpeg" thumbname="thumb839249218" resamplename="img839249234" exportfilename="images/17TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371517484" pageindex="28" name="18th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828235078" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 18th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 18th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE4dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828819984" left="110" top="480" width="1154" height="912" originwidth="1154" originheight="912" src="WSB://images\18TH.jpeg" previewfile="WSB://images\18TH.jpeg" thumbname="thumb839252421" resamplename="img839252437" exportfilename="images/18TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371518093" pageindex="29" name="19th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828249390" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 19th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 19th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDE5dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828808328" left="94" top="480" width="1158" height="892" originwidth="1158" originheight="892" src="WSB://images\19TH.jpeg" previewfile="WSB://images\19TH.jpeg" thumbname="thumb839255625" resamplename="img839255640" exportfilename="images/19TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371518718" pageindex="30" name="20th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_image6" zorder="4" global="1"/><Component id="g_nav1" zorder="5" global="1"/><Component id="g_text1" zorder="6" global="1"/><Component id="g_image4" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828267625" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 20th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 20th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDIwdGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828787390" left="120" top="494" width="1139" height="880" originwidth="1242" originheight="960" src="WSB://images\20TH.jpeg" previewfile="WSB://images\20TH.jpeg" thumbname="thumb839258593" resamplename="img839258609" exportfilename="images/20TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371519406" pageindex="31" name="21th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image4" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828283843" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 21st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 21st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDIxc3QgTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828772500" left="97" top="492" width="1192" height="814" originwidth="1192" originheight="814" src="WSB://images\21ST.jpeg" previewfile="WSB://images\21ST.jpeg" thumbname="thumb839261671" resamplename="img839261687" exportfilename="images/21ST.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371520062" pageindex="32" name="22nd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828304296" left="328" top="354" width="736" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 22nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 22nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDIybmQgTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828757750" left="101" top="528" width="1174" height="910" originwidth="1174" originheight="910" src="WSB://images\22ND.jpeg" previewfile="WSB://images\22ND.jpeg" thumbname="thumb839264765" resamplename="img839264781" exportfilename="images/22ND.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371520718" pageindex="33" name="23rd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_nav1" zorder="3" global="1"/><Component id="g_text1" zorder="4" global="1"/><Component id="g_image4" zorder="5" global="1"/><Component id="g_image3" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828326437" left="328" top="354" width="731" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 23rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 23rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDIzcmQgTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828741578" left="107" top="471" width="1190" height="860" originwidth="1190" originheight="860" src="WSB://images\23RD.jpeg" previewfile="WSB://images\23RD.jpeg" thumbname="thumb839267859" resamplename="img839267875" exportfilename="images/23RD.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371521406" pageindex="34" name="24 rth NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828346375" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 24th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 24th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI0dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828726140" left="152" top="494" width="1080" height="940" originwidth="1080" originheight="940" src="WSB://images\24RTH.jpeg" previewfile="WSB://images\24RTH.jpeg" thumbname="thumb839271125" resamplename="img839271140" exportfilename="images/24RTH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371522046" pageindex="35" name="25th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image4" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828364453" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 25th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 25th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI1dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828706734" left="138" top="525" width="1079" height="797" originwidth="1256" originheight="928" src="WSB://images\25TH.jpeg" previewfile="WSB://images\25TH.jpeg" thumbname="thumb839274312" resamplename="img839274328" exportfilename="images/25TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371522671" pageindex="36" name="26th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image6" zorder="6" global="1"/><Component id="g_nav1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828379843" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 26th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 26th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI2dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828683078" left="103" top="502" width="1159" height="887" originwidth="1210" originheight="926" src="WSB://images\26TH.jpeg" previewfile="WSB://images\26TH.jpeg" thumbname="thumb839277640" resamplename="img839277656" exportfilename="images/26TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371523218" pageindex="37" name="27th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828395375" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 27th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 27th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI3dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828661953" left="155" top="498" width="1080" height="850" originwidth="1080" originheight="850" src="WSB://images\27TH.jpeg" previewfile="WSB://images\27TH.jpeg" thumbname="thumb839280812" resamplename="img839280828" exportfilename="images/27TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371523828" pageindex="38" name="28th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_image6" zorder="4" global="1"/><Component id="g_nav1" zorder="5" global="1"/><Component id="g_text1" zorder="6" global="1"/><Component id="g_image4" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828409906" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 28th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 28th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI4dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828637828" left="115" top="506" width="1145" height="820" originwidth="1260" originheight="902" src="WSB://images\28TH.jpeg" previewfile="WSB://images\28TH.jpeg" thumbname="thumb839283953" resamplename="img839283968" exportfilename="images/28TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371524406" pageindex="39" name="29th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_nav1" zorder="4" global="1"/><Component id="g_text1" zorder="5" global="1"/><Component id="g_image4" zorder="6" global="1"/><Component id="g_image3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828423578" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 29th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 29th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDI5dGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828618531" left="158" top="498" width="1080" height="827" originwidth="1080" originheight="827" src="WSB://images\29TH.jpeg" previewfile="WSB://images\29TH.jpeg" thumbname="thumb839287078" resamplename="img839287093" exportfilename="images/29TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371525031" pageindex="40" name="30th NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_nav1" zorder="3" global="1"/><Component id="g_text1" zorder="4" global="1"/><Component id="g_image4" zorder="5" global="1"/><Component id="g_image3" zorder="6" global="1"/><Component id="g_image6" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828436562" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 30th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 30th NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDMwdGggTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828599546" left="147" top="538" width="1100" height="780" originwidth="1100" originheight="780" src="WSB://images\30TH.jpeg" previewfile="WSB://images\30TH.jpeg" thumbname="thumb839290234" resamplename="img839290250" exportfilename="images/30TH.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371525609" pageindex="41" name="31st NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image4" zorder="3" global="1"/><Component id="g_image3" zorder="4" global="1"/><Component id="g_image6" zorder="5" global="1"/><Component id="g_nav1" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828450625" left="328" top="354" width="723" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 31st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 31st NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDMxc3QgTkFUSU9OQUxTDQo=
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page><page id="p371526250" pageindex="42" name="32nd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_text1" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_image3" zorder="5" global="1"/><Component id="g_image6" zorder="6" global="1"/><Component id="g_nav1" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828465046" left="328" top="354" width="733" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 32nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 32nd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDMybmQgTkFUSU9OQUxTDQo=
+</rvf></Component><Component type="3" id="image1" zorder="11" filename="image828562703" left="160" top="492" width="1080" height="862" originwidth="1080" originheight="862" src="WSB://images\32ND.jpeg" previewfile="WSB://images\32ND.jpeg" thumbname="thumb839297000" resamplename="img839297015" exportfilename="images/32ND.jpeg" fp="1" lp="1"/><Component id="g_image8" zorder="12" global="1"/></body></page><page id="p371526937" pageindex="43" name="33rd NATIONALS" pp="1" cp="1"><body align="1" charset="0" charsetcode="ISO-8859-1" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component id="g_roundrect1" zorder="0" global="1"/><Component id="g_roundrect2" zorder="1" global="1"/><Component id="g_image5" zorder="2" global="1"/><Component id="g_image3" zorder="3" global="1"/><Component id="g_image6" zorder="4" global="1"/><Component id="g_nav1" zorder="5" global="1"/><Component id="g_text1" zorder="6" global="1"/><Component id="g_image4" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_roundrect3" zorder="9" global="1"/><Component type="2" id="text1" zorder="10" filename="text828480218" left="328" top="354" width="736" height="39" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="0" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" style="font-size:32px;"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 33rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Times New Roman" class="ws24"&gt;TAEKWON-DO CHAMPIONSHIP&amp;nbsp; 33rd NATIONALS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIYBUNvbG9yBwdjbFdoaXRlAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFFS1dPTi1ETyBDSEFN
+UElPTlNISVAgIDMzcmQgTkFUSU9OQUxTDQo=
+</rvf></Component><Component id="g_image8" zorder="11" global="1"/></body></page></site>
